@@ -1,0 +1,13 @@
+Complex programs are hard to keep organized
+OOP organizes and structure code
+ - plan, maintain, and learn for programmers
+ - groups together data and behavior into one placeholder
+ - promotes modularization : individual parts of the program doesn't need to know
+ - isolates different parts of the program of the program
+
+Class -  blueprint or a template that describes how to create a specific kind of object
+Methods - fancy way of referring to functions that are part of a class
+Attributes - way of referring to variables or properties that are part of a class definition
+Object - specific instance of a class or a type
+Inheritance - describes how you can arrange classes in a hierarchical fashion where a particular class can inherit the capabilities and data of another class
+Composition - refers to building complex objects out of other objects. 
