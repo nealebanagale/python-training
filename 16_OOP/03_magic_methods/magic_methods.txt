@@ -1,0 +1,6 @@
+Python's so-called magic methods
+- set of methods that Python automatically associates with every class definition.
+- classes can override these methods to customize a variety of behavior and make them act just like Python's built-in classes
+- customize how your objects are represented as strings, both for display to the user and for debugging purposes.
+- control how attributes are accessed on an object both for when they are set, and for when they are retrieved.
+- add capabilities to your classes that enable them to be used in expressions such as testing for equality, or other comparison operations like greater than or less than
